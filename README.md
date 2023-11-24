@@ -39,6 +39,10 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2201.03514)]  [[Code](https://github.
 27 Jun 2022 
 
 3. **Black-Box Prompt Learning for Pre-trained Language Models**\
-*Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang∗\
+*Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang*\
 arXiv 2023. [[Paper](https://arxiv.org/abs/2201.08531v3)]  [[Code](https://link.zhihu.com/?target=https%3A//github.com/shizhediao/Black-Box-Prompt-Learning)]\
 23 Feb 2023
+
+3. **Black-box Prompt Tuning for Vision-Language Model as a Service**\
+*Lang Yu1, Qin Chen, Jiaju Lin, Liang He*\
+IJCAI 2023. [[Paper](https://www.ijcai.org/proceedings/2023/0187.pdf)]  [[Code](https://github.com/BruthYU/BPT-VLM)]\
