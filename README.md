@@ -33,3 +33,7 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2310.12541)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2309.16797)] \
 28 Sep 2023
 
+2. **Black-Box Tuning for Language-Model-as-a-Service**\
+*Tianxiang Sun, Yunfan Shao, Hong Qian, Xuanjing Huang, Xipeng Qiu* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2201.03514)  [[Code](https://github.com/txsun1997/Black-Box-Tuning)\
+27 Jun 2022 
