@@ -45,4 +45,4 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2201.08531v3)]  [[Code](https://link.
 
 3. **Black-box Prompt Tuning for Vision-Language Model as a Service**\
 *Lang Yu1, Qin Chen, Jiaju Lin, Liang He*\
-IJCAI 2023. [[Paper](https://www.ijcai.org/proceedings/2023/0187.pdf)]  [[Code](https://github.com/BruthYU/BPT-VLM)]\
+IJCAI 2023. [[Paper](https://www.ijcai.org/proceedings/2023/0187.pdf)]  [[Code](https://github.com/BruthYU/BPT-VLM)]
