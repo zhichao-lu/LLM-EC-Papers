@@ -49,7 +49,7 @@ IJCAI 2023. [[Paper](https://www.ijcai.org/proceedings/2023/0187.pdf)]  [[Code](
 
 5. **INSTRUCTZERO: EFFICIENT INSTRUCTION OPTIMIZATION FOR BLACK-BOX LARGE LANGUAGE MODELS**\
 *Lichang Chen, Jiuhai Chen, Tom Goldstein, Heng Huang, Tianyi Zhou*\
-arXiv 2023. [[Paper](https://arxiv.org/abs/2306.03082)]  [[Code](https://github.com/Lichang-Chen/InstructZero)]
+arXiv 2023. [[Paper](https://arxiv.org/abs/2306.03082)]  [[Code](https://github.com/Lichang-Chen/InstructZero)] \
 8 Aug 2023 
 
 6. **Prompt Evolution for Generative AI: A Classifier-Guided Approach**\
@@ -58,5 +58,5 @@ CAI 2023. [[Paper](https://ieeexplore.ieee.org/document/10195116/)]
 
 7. **Efficient Federated Prompt Tuning for Black-box Large Pre-trained Models**\
 *Zihao Lin, Yan Sun, Yifan Shi, Xueqian Wang, Lifu Huang, Li Shen, Dacheng Tao*\
-arXiv 2023. [[Paper](https://arxiv.org/abs/2310.03123)]
+arXiv 2023. [[Paper](https://arxiv.org/abs/2310.03123)] \
 4 Oct 2023
