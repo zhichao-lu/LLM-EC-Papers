@@ -43,6 +43,20 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2201.03514)]  [[Code](https://github.
 arXiv 2023. [[Paper](https://arxiv.org/abs/2201.08531v3)]  [[Code](https://link.zhihu.com/?target=https%3A//github.com/shizhediao/Black-Box-Prompt-Learning)]\
 23 Feb 2023
 
-3. **Black-box Prompt Tuning for Vision-Language Model as a Service**\
-*Lang Yu1, Qin Chen, Jiaju Lin, Liang He*\
+4. **Black-box Prompt Tuning for Vision-Language Model as a Service**\
+*Lang Yu, Qin Chen, Jiaju Lin, Liang He*\
 IJCAI 2023. [[Paper](https://www.ijcai.org/proceedings/2023/0187.pdf)]  [[Code](https://github.com/BruthYU/BPT-VLM)]
+
+5. **INSTRUCTZERO: EFFICIENT INSTRUCTION OPTIMIZATION FOR BLACK-BOX LARGE LANGUAGE MODELS**\
+*Lichang Chen, Jiuhai Chen, Tom Goldstein, Heng Huang, Tianyi Zhou*\
+arXiv 2023. [[Paper](https://arxiv.org/abs/2306.03082)]  [[Code](https://github.com/Lichang-Chen/InstructZero)]
+8 Aug 2023 
+
+6. **Prompt Evolution for Generative AI: A Classifier-Guided Approach**\
+*Melvin Wong, Yew-Soon Ong, Abhishek Gupta, Kavitesh Kumar Bali, Caishun Chen*\
+CAI 2023. [[Paper](https://ieeexplore.ieee.org/document/10195116/)]
+
+7. **Efficient Federated Prompt Tuning for Black-box Large Pre-trained Models**\
+*Zihao Lin, Yan Sun, Yifan Shi, Xueqian Wang, Lifu Huang, Li Shen, Dacheng Tao*\
+arXiv 2023. [[Paper](https://arxiv.org/abs/2310.03123)]
+4 Oct 2023
