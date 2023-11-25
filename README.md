@@ -61,7 +61,7 @@ CAI 2023. [[Paper](https://ieeexplore.ieee.org/document/10195116/)]
 arXiv 2023. [[Paper](https://arxiv.org/abs/2310.03123)] \
 4 Oct 2023
 
-8. **CONNECTING LARGE LANGUAGE MODELS WITH EVOLUTIONARY ALGORITHMS YIELDS POWERFUL PROMPT OPTIMIZERS**\
+8. **CONNECTING LARGE LANGUAGE MODELS WITH EVOLUTIONARY ALGORITHMS YIELDS POWERFUL PROMPT OPTIMIZERS**\
 *Qingyan Guo, Rui Wang, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang*\
 arXiv 2023. [[Paper](https://arxiv.org/abs/2309.08532)]  [[Code](https://github.com/kyegomez/eaot)] \
 15 Sep 2023
