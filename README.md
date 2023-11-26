@@ -68,5 +68,5 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2309.08532)]  [[Code](https://github.
 
 9. **Plum: Prompt Learning using Metaheuristic**\
 *Rui Pan, Shuo Xing, Shizhe Diao, Xiang Liu, Kashun Shum, Jipeng Zhang, Tong Zhang*\
-arXiv 2023. [[https://arxiv.org/abs/2311.08364)]  [[Code](https://github.com/research4pan/Plum)] \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2311.08364)]  [[Code](https://github.com/research4pan/Plum)] \
 14 Nov 2023
