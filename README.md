@@ -65,3 +65,8 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2310.03123)] \
 *Qingyan Guo, Rui Wang, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang*\
 arXiv 2023. [[Paper](https://arxiv.org/abs/2309.08532)]  [[Code](https://github.com/kyegomez/eaot)] \
 15 Sep 2023
+
+9. **Plum: Prompt Learning using Metaheuristic**\
+*Rui Pan, Shuo Xing, Shizhe Diao, Xiang Liu, Kashun Shum, Jipeng Zhang, Tong Zhang*\
+arXiv 2023. [[https://arxiv.org/abs/2311.08364)]  [[Code](https://github.com/research4pan/Plum)] \
+14 Nov 2023
