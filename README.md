@@ -16,6 +16,11 @@ Please make a pull request if you would like your awesome work to be included.
 
 ## 🗞️ LLM for EC
 
+1. **Algorithm Evolution Using Large Language Model**\
+*Fei Liu, Xialiang Tong, Mingxuan Yuan, Qingfu Zhang* \
+arXiv 2023 [[Paper](https://arxiv.org/abs/2311.15249)] \
+26 Nov 2023
+
 1. **Large Language Models as Evolutionary Optimizers** \
 *Shengcai Liu, Caishun Chen, Xinghua Qu, Ke Tang, Yew-Soon Ong* \
 arXiv 2023 [[Paper](https://arxiv.org/abs/2310.19046)] \
