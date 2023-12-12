@@ -14,7 +14,12 @@ Please make a pull request if you would like your awesome work to be included.
 
 ---
 
-## 🗞️ LLM for EC
+## 🗞️ LLM for Optimization (EC)
+
+1. **Using Large Language Models for Hyperparameter Optimization**\
+*Michael R. Zhang, Nishkrit Desai, Juhan Bae, Jonathan Lorraine, Jimmy Ba* \
+arXiv 2023 [[Paper](https://arxiv.org/abs/2312.04528)] \
+7 Dec 2023
 
 1. **Algorithm Evolution Using Large Language Model**\
 *Fei Liu, Xialiang Tong, Mingxuan Yuan, Qingfu Zhang* \
