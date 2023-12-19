@@ -16,6 +16,11 @@ Please make a pull request if you would like your awesome work to be included.
 
 ## 🗞️ LLM for Optimization (EC)
 
+1. **Mathematical discoveries from program search with large language models**\
+*Bernardino Romera-Paredes, Mohammadamin Barekatain, Alexander Novikov, Matej Balog, M. Pawan Kumar, Emilien Dupont, Francisco J. R. Ruiz, Jordan S. Ellenberg, Pengming Wang, Omar Fawzi, Pushmeet Kohli & Alhussein Fawzi* \
+Nature 2023 [[Paper](https://www.nature.com/articles/s41586-023-06924-6)] \
+14 Dec 2023
+
 1. **Using Large Language Models for Hyperparameter Optimization**\
 *Michael R. Zhang, Nishkrit Desai, Juhan Bae, Jonathan Lorraine, Jimmy Ba* \
 arXiv 2023 [[Paper](https://arxiv.org/abs/2312.04528)] \
