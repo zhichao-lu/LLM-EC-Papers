@@ -4,7 +4,7 @@ This repo aims to collect papers at the crossroads of Large Language Model (LLM)
 
 Please make a pull request if you would like your awesome work to be included.
 
---- 
+---
 
 ## Contents
 
@@ -16,30 +16,35 @@ Please make a pull request if you would like your awesome work to be included.
 
 ## 🗞️ LLM for Optimization (EC)
 
-1. **Mathematical discoveries from program search with large language models**\
+1. **Mathematical discoveries from program search with large language models** \
 *Bernardino Romera-Paredes, Mohammadamin Barekatain, Alexander Novikov, Matej Balog, M. Pawan Kumar, Emilien Dupont, Francisco J. R. Ruiz, Jordan S. Ellenberg, Pengming Wang, Omar Fawzi, Pushmeet Kohli & Alhussein Fawzi* \
 Nature 2023 [[Paper](https://www.nature.com/articles/s41586-023-06924-6)] \
 14 Dec 2023
 
-1. **Using Large Language Models for Hyperparameter Optimization**\
+2. **Using Large Language Models for Hyperparameter Optimization**\
 *Michael R. Zhang, Nishkrit Desai, Juhan Bae, Jonathan Lorraine, Jimmy Ba* \
 arXiv 2023 [[Paper](https://arxiv.org/abs/2312.04528)] \
 7 Dec 2023
 
-1. **Algorithm Evolution Using Large Language Model**\
+3. **Algorithm Evolution Using Large Language Model**\
 *Fei Liu, Xialiang Tong, Mingxuan Yuan, Qingfu Zhang* \
 arXiv 2023 [[Paper](https://arxiv.org/abs/2311.15249)] \
 26 Nov 2023
 
-1. **Large Language Models as Evolutionary Optimizers** \
+4. **Large Language Models as Evolutionary Optimizers** \
 *Shengcai Liu, Caishun Chen, Xinghua Qu, Ke Tang, Yew-Soon Ong* \
 arXiv 2023 [[Paper](https://arxiv.org/abs/2310.19046)] \
 29 Oct 2023 
 
-1. **Large Language Model for Multi-objective Evolutionary Optimization**\
+5. **Large Language Model for Multi-objective Evolutionary Optimization**\
 *Fei Liu, Xi Lin, Zhenkun Wang, Shunyu Yao, Xialiang Tong, Mingxuan Yuan, Qingfu Zhang* \
 arXiv 2023 [[Paper](https://arxiv.org/abs/2310.12541)] \
 19 Oct 2023 
+
+6. **Language Model Crossover: Variation through Few-Shot Prompting**
+*Elliot Meyerson, Mark J. Nelson, Herbie Bradley, Adam Gaier, Arash Moradi, Amy K. Hoover, Joel Lehman* \
+arXiv 2023 [[Paper](https://arxiv.org/abs/2302.12170)] \
+7 Oct 2023
 
 ## 🏷️ EC for LLM
 
@@ -90,3 +95,7 @@ CAI 2023. [[Paper](https://ieeexplore.ieee.org/document/10195116/)]
 *Shizhe Diao, Zhichao Huang, Ruijia Xu, Xuechun Li, Yong Lin, Xiao Zhou, Tong Zhang*\
 arXiv 2023. [[Paper](https://arxiv.org/abs/2201.08531v3)]  [[Code](https://link.zhihu.com/?target=https%3A//github.com/shizhediao/Black-Box-Prompt-Learning)]\
 23 Feb 2023
+
+11. **Genetic Prompt Search via Exploiting Language Model Probabilities** \
+*Jiangjiang Zhao, Zhuoran Wang, Fangchun Yang* \
+IJCAI 2023. [[Paper](https://www.ijcai.org/proceedings/2023/0588.pdf)]  [[Code](https://github.com/zjjhit/gap3)]
