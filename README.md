@@ -41,10 +41,15 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2310.19046)] \
 arXiv 2023 [[Paper](https://arxiv.org/abs/2310.12541)] \
 19 Oct 2023 
 
-6. **Language Model Crossover: Variation through Few-Shot Prompting**
+6. **Language Model Crossover: Variation through Few-Shot Prompting** \
 *Elliot Meyerson, Mark J. Nelson, Herbie Bradley, Adam Gaier, Arash Moradi, Amy K. Hoover, Joel Lehman* \
 arXiv 2023 [[Paper](https://arxiv.org/abs/2302.12170)] \
 7 Oct 2023
+
+7. **Evoprompting: Language models for code-level neural architecture search** \
+*Angelica Chen, David M. Dohan, David R. So* \
+arXiv 2023 [[Paper](https://arxiv.org/abs/2302.14838)] \
+28 Feb 2023
 
 ## 🏷️ EC for LLM
 
