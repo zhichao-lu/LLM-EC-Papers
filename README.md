@@ -51,6 +51,11 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2302.12170)] \
 arXiv 2023 [[Paper](https://arxiv.org/abs/2302.14838)] \
 28 Feb 2023
 
+8. **Enhancing genetic improvement mutations using large language models** \
+*Alexander E.I. Brownlee, James callan, Karine Even-Mendoza, Alina Geiger, Carol Hanna, Justyna Petke, Federica Sarro, Dominik Sobania* \
+arXiv 2023 [[Paper](https://arxiv.org/abs/2310.19813)] \
+18 Oct 2023
+
 ## 🏷️ EC for LLM
 
 1. **Plum: Prompt Learning using Metaheuristic**\
