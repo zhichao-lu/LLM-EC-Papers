@@ -56,6 +56,11 @@ arXiv 2023 [[Paper](https://arxiv.org/abs/2302.14838)] \
 arXiv 2023 [[Paper](https://arxiv.org/abs/2310.19813)] \
 18 Oct 2023
 
+9. **Evolving Code with A Large Language Model** \
+*Erik Hemberg, Stephen Moskal and Una-May O'Reilly* \
+arXiv 2024[[Paper](https://arxiv.org/pdf/2401.07102.pdf)] \
+13 Jan 2024
+
 ## 🏷️ EC for LLM
 
 1. **Plum: Prompt Learning using Metaheuristic**\
